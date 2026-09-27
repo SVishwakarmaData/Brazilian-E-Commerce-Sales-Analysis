@@ -41,8 +41,8 @@ MySQL (MySQL Workbench), Power BI
 ## Key Findings
 - Repeat purchase rate is low (~3.12%), consistent with Olist's nature as a marketplace 
   where most customers are one-time buyers rather than a subscription/repeat business
-- [Add: which state had fastest/slowest delivery, once you note it from your chart]
-- [Add: which category drove the most revenue]
+- SP (São Paulo) state had fastest delivery & RR (Roraima) state had slowest delivery
+- Healthy Beauty category drove the most revenue
 
 ## Files in This Repo
 - `total_revenue.sql` — Top 10 categories by revenue
