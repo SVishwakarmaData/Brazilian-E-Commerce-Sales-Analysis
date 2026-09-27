@@ -15,7 +15,7 @@ Built to practice multi-table joins, CTEs, and window functions on real relation
 - What is the average delivery time by state, and where are the slowest/fastest regions?
 - What percentage of customers make repeat purchases?
 
-## Tech Stack<img width="1257" height="707" alt="Screenshot 2026-09-27 114844" src="https://github.com/user-attachments/assets/a7a92f1f-48bb-4ca4-a7c3-df8ee65bb56d" />
+## Tech Stack
 
 MySQL (MySQL Workbench), Power BI
 
@@ -31,7 +31,7 @@ MySQL (MySQL Workbench), Power BI
   calculations
 
 ## Dashboard
-![Dashboard Overview]("https://github.com/user-attachments/assets/5d8c4802-43f0-44b5-ae45-553d9405a859" />
+![Dashboard Overview](https://github.com/user-attachments/assets/5d8c4802-43f0-44b5-ae45-553d9405a859>
 )
 
 - **KPI Cards:** Total Customers (96K), Repeat Purchase Rate (3.12%)
