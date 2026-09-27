@@ -31,8 +31,7 @@ MySQL (MySQL Workbench), Power BI
   calculations
 
 ## Dashboard
-![Dashboard Overview](https://github.com/user-attachments/assets/5d8c4802-43f0-44b5-ae45-553d9405a859>
-)
+![Dashboard Overview](https://github.com/user-attachments/assets/cb12f079-13a2-471b-81a2-6a2e5d6c29c3)
 
 - **KPI Cards:** Total Customers (96K), Repeat Purchase Rate (3.12%)
 - **Monthly Revenue Trend:** Line chart comparing monthly revenue vs. cumulative running total
